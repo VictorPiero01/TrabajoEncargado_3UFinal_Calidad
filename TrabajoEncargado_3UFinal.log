@@ -1,0 +1,460 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.30)  9 JAN 2021 08:59
+entering extended mode
+**./TrabajoEncargado_3UFinal.tex
+(TrabajoEncargado_3UFinal.tex
+LaTeX2e <2020-10-01> patch level 1
+L3 programming layer <2020-10-05> xparse <2020-03-03>
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls"
+Document Class: book 2020/04/10 v1.4m Standard LaTeX document class
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/base\bk12.clo"
+File: bk12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count175
+\c@chapter=\count176
+\c@section=\count177
+\c@subsection=\count178
+\c@subsubsection=\count179
+\c@paragraph=\count180
+\c@subparagraph=\count181
+\c@figure=\count182
+\c@table=\count183
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.s
+ty"
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.s
+ty"
+Package: babel 2020/10/06 3.50 The Babel package
+
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.d
+ef"
+File: babel.def 2020/10/06 3.50 Babel common definitions
+\babel@savecnt=\count184
+\U@D=\dimen139
+\l@babelnohyphens=\language79
+
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabe
+l.def")
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count185
+
+*************************************
+* Local config file bblopts.cfg used
+*
+
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.c
+fg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\s
+panish.ldf"
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+\es@quottoks=\toks17
+\es@quotdepth=\count186
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath
+.sty"
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext
+.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.
+sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen140
+))
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.
+sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen141
+)
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.
+sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count187
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count188
+\leftroot@=\count189
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count190
+\DOTSCASE@=\count191
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen142
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count192
+\c@MaxMatrixCols=\count193
+\dotsspace@=\muskip16
+\c@parentequation=\count194
+\dspbrk@lvl=\count195
+\tag@help=\toks19
+\row@=\count196
+\column@=\count197
+\maxfields@=\count198
+\andhelp@=\toks20
+\eqnshift@=\dimen143
+\alignsep@=\dimen144
+\tagshift@=\dimen145
+\tagwidth@=\dimen146
+\totwidth@=\dimen147
+\lineht@=\dimen148
+\@envbody=\toks21
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+"
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen149
+\ar@mcellbox=\box49
+\extrarowheight=\dimen150
+\NC@list=\toks23
+\extratabsurround=\skip52
+\backup@length=\skip53
+\ar@cellbox=\box50
+)
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfon
+ts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssym
+b.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/abstract\abstra
+ct.sty"
+Package: abstract 2009/06/08 v1.2a configurable abstracts
+\abstitleskip=\skip54
+\absleftindent=\skip55
+\absrightindent=\skip56
+\absparindent=\skip57
+\absparsep=\skip58
+
+
+! LaTeX Error: Environment abstract undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.104   \renewenvironment{abstract}
+                                   {%
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+)
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphi
+cx.sty"
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval
+.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks24
+)
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphi
+cs.sty"
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.s
+ty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\gr
+aphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pd
+ftex.def"
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen151
+\Gin@req@width=\dimen152
+)
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geomet
+ry.sty"
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.
+sty"
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.s
+ty"
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count199
+\Gm@cntv=\count266
+\c@Gm@tempcnt=\count267
+\Gm@bindingoffset=\dimen153
+\Gm@wd@mp=\dimen154
+\Gm@odd@mp=\dimen155
+\Gm@even@mp=\dimen156
+\Gm@layoutwidth=\dimen157
+\Gm@layoutheight=\dimen158
+\Gm@layouthoffset=\dimen159
+\Gm@layoutvoffset=\dimen160
+\Gm@dimlist=\toks25
+
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geomet
+ry.cfg"))
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3bac
+kend-pdftex.def"
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count268
+\l__pdf_internal_box=\box51
+) (TrabajoEncargado_3UFinal.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+)
+\openout1 = `TrabajoEncargado_3UFinal.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Info: Redefining \. on input line 17.
+LaTeX Info: Redefining \% on input line 17.
+
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\sup
+p-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count269
+\scratchdimen=\dimen161
+\scratchbox=\box52
+\nofMPsegments=\count270
+\nofMParguments=\count271
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count272
+\MPscratchDim=\dimen162
+\MPnumerator=\count273
+\makeMPintoPDFobject=\count274
+\everyMPtoPDFconversion=\toks27
+)
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\ep
+stopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.2698pt, 452.96826pt, 72.2698pt)
+* v-part:(T,H,B)=(72.2698pt, 700.50723pt, 72.2698pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.96826pt
+* \textheight=700.50723pt
+* \oddsidemargin=-0.00018pt
+* \evensidemargin=-0.00018pt
+* \topmargin=-31.87398pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=38.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<img/uptlogo.jpg, id=1, 580.41844pt x 722.7pt>
+File: img/uptlogo.jpg Graphic file (type jpg)
+<use img/uptlogo.jpg>
+Package pdftex.def Info: img/uptlogo.jpg  used on input line 28.
+(pdftex.def)             Requested size: 170.71713pt x 199.16766pt.
+[1
+
+{C:/Users/VICTOR PIERO/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./img/up
+tlogo.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+
+ []
+
+[1
+
+]
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 85
+.
+
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd"
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+Underfull \hbox (badness 10000) in paragraph at lines 84--87
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--90
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--102
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--104
+
+ []
+
+[1]
+<img/code.png, id=19, 1013.7875pt x 301.125pt>
+File: img/code.png Graphic file (type png)
+<use img/code.png>
+Package pdftex.def Info: img/code.png  used on input line 108.
+(pdftex.def)             Requested size: 284.52374pt x 85.35744pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--115
+
+ []
+
+<img/azure.png, id=20, 451.6875pt x 254.45062pt>
+File: img/azure.png Graphic file (type png)
+<use img/azure.png>
+Package pdftex.def Info: img/azure.png  used on input line 117.
+(pdftex.def)             Requested size: 284.54395pt x 142.27007pt.
+<img/comparativa1.png, id=21, 252.945pt x 182.18062pt>
+File: img/comparativa1.png Graphic file (type png)
+<use img/comparativa1.png>
+Package pdftex.def Info: img/comparativa1.png  used on input line 124.
+(pdftex.def)             Requested size: 227.62523pt x 142.26987pt.
+[2 <./img/code.png> <./img/azure.png> <./img/comparativa1.png>]
+<img/comparativa2.png, id=27, 251.43938pt x 170.88844pt>
+File: img/comparativa2.png Graphic file (type png)
+<use img/comparativa2.png>
+Package pdftex.def Info: img/comparativa2.png  used on input line 131.
+(pdftex.def)             Requested size: 227.62082pt x 142.27281pt.
+<img/compañias.png, id=28, 243.91125pt x 194.97844pt>
+File: img/compañias.png Graphic file (type png)
+<use img/compañias.png>
+Package pdftex.def Info: img/compañias.png  used on input line 138.
+(pdftex.def)             Requested size: 227.62413pt x 142.26761pt.
+<img/herramientas.png, id=29, 246.9225pt x 127.97812pt>
+File: img/herramientas.png Graphic file (type png)
+<use img/herramientas.png>
+Package pdftex.def Info: img/herramientas.png  used on input line 144.
+(pdftex.def)             Requested size: 284.54263pt x 142.27219pt.
+ [3 <./img/comparativa2.png> <./img/compañias.png> <./img/herramientas.png>]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 194
+.
+
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.f
+d"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 194
+.
+
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.f
+d"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (425.46835pt too wide) in paragraph at lines 194--195
+[]\OT1/cmr/m/n/12 https://stackshare.io/stackups/aws-codepipeline-vs-azure-devo
+ps#: :text=AWS$ $%20CodePipeline$ $%20belongs$ $%20to$ $%20$ $%22Continuous,Wor
+kflow$ $%20Modeling 
+ []
+
+
+Overfull \hbox (27.0142pt too wide) in paragraph at lines 198--199
+[]\OT1/cmr/m/n/12 https://www.trustradius.com/compare-products/aws-codepipeline
+-vs-azure-devops 
+ []
+
+
+Overfull \hbox (18.59346pt too wide) in paragraph at lines 200--201
+[]\OT1/cmr/m/n/12 https://www.infoworld.com/article/3271126/what-is-cicd-contin
+uous-integration-
+ []
+
+[4] (TrabajoEncargado_3UFinal.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+) ) 
+Here is how much of TeX's memory you used:
+ 4203 strings out of 480257
+ 59228 string characters out of 2878097
+ 356893 words of memory out of 3000000
+ 20681 multiletter control sequences out of 15000+200000
+ 543661 words of font info for 60 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 60i,5n,66p,559b,428s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/VICTOR PIERO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmbx12.pfb><C:/Users/VICTOR PIERO/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/VICTOR PIERO/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/VICTOR PIERO/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/
+VICTOR PIERO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17
+.pfb><C:/Users/VICTOR PIERO/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmti10.pfb><C:/Users/VICTOR PIERO/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/VICTOR PIERO/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/latxfont/lasy10.pfb>
+Output written on TrabajoEncargado_3UFinal.pdf (6 pages, 400459 bytes).
+PDF statistics:
+ 65 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+
