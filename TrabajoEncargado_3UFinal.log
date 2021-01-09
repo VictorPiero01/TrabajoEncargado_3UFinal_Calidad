@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.30)  9 JAN 2021 09:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.30)  9 JAN 2021 09:35
 entering extended mode
 **./TrabajoEncargado_3UFinal.tex
 (TrabajoEncargado_3UFinal.tex
@@ -394,82 +394,81 @@ Underfull \hbox (badness 10000) in paragraph at lines 115--116
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 122--124
-
- []
-
-[2]
-<img/code.png, id=22, 1013.7875pt x 301.125pt>
-File: img/code.png Graphic file (type png)
-<use img/code.png>
-Package pdftex.def Info: img/code.png  used on input line 128.
-(pdftex.def)             Requested size: 284.52374pt x 85.35744pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 133--135
-
- []
-
-<img/azure.png, id=23, 451.6875pt x 254.45062pt>
-File: img/azure.png Graphic file (type png)
-<use img/azure.png>
-Package pdftex.def Info: img/azure.png  used on input line 137.
-(pdftex.def)             Requested size: 284.54395pt x 142.27007pt.
-<img/comparativa1.png, id=24, 252.945pt x 182.18062pt>
-File: img/comparativa1.png Graphic file (type png)
-<use img/comparativa1.png>
-Package pdftex.def Info: img/comparativa1.png  used on input line 144.
-(pdftex.def)             Requested size: 227.62523pt x 142.26987pt.
-[3 <./img/code.png> <./img/azure.png> <./img/comparativa1.png>]
-<img/comparativa2.png, id=30, 251.43938pt x 170.88844pt>
-File: img/comparativa2.png Graphic file (type png)
-<use img/comparativa2.png>
-Package pdftex.def Info: img/comparativa2.png  used on input line 151.
-(pdftex.def)             Requested size: 227.62082pt x 142.27281pt.
-<img/compañias.png, id=31, 243.91125pt x 194.97844pt>
-File: img/compañias.png Graphic file (type png)
-<use img/compañias.png>
-Package pdftex.def Info: img/compañias.png  used on input line 158.
-(pdftex.def)             Requested size: 227.62413pt x 142.26761pt.
-<img/herramientas.png, id=32, 246.9225pt x 127.97812pt>
-File: img/herramientas.png Graphic file (type png)
-<use img/herramientas.png>
-Package pdftex.def Info: img/herramientas.png  used on input line 164.
-(pdftex.def)             Requested size: 284.54263pt x 142.27219pt.
- [4 <./img/comparativa2.png> <./img/compañias.png> <./img/herramientas.png>]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 214
+LaTeX Font Info:    Trying to load font information for U+msa on input line 127
 .
 
 ("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.f
 d"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 214
+LaTeX Font Info:    Trying to load font information for U+msb on input line 127
 .
 
 ("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.f
 d"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-Overfull \hbox (425.46835pt too wide) in paragraph at lines 214--215
+) [2] [3]
+Underfull \hbox (badness 10000) in paragraph at lines 214--216
+
+ []
+
+[4]
+<img/code.png, id=30, 1013.7875pt x 301.125pt>
+File: img/code.png Graphic file (type png)
+<use img/code.png>
+Package pdftex.def Info: img/code.png  used on input line 220.
+(pdftex.def)             Requested size: 284.52374pt x 85.35744pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--227
+
+ []
+
+<img/azure.png, id=31, 451.6875pt x 254.45062pt>
+File: img/azure.png Graphic file (type png)
+<use img/azure.png>
+Package pdftex.def Info: img/azure.png  used on input line 229.
+(pdftex.def)             Requested size: 284.54395pt x 142.27007pt.
+<img/comparativa1.png, id=32, 252.945pt x 182.18062pt>
+File: img/comparativa1.png Graphic file (type png)
+<use img/comparativa1.png>
+Package pdftex.def Info: img/comparativa1.png  used on input line 236.
+(pdftex.def)             Requested size: 227.62523pt x 142.26987pt.
+[5 <./img/code.png> <./img/azure.png> <./img/comparativa1.png>]
+<img/comparativa2.png, id=39, 251.43938pt x 170.88844pt>
+File: img/comparativa2.png Graphic file (type png)
+<use img/comparativa2.png>
+Package pdftex.def Info: img/comparativa2.png  used on input line 243.
+(pdftex.def)             Requested size: 227.62082pt x 142.27281pt.
+<img/compañias.png, id=40, 243.91125pt x 194.97844pt>
+File: img/compañias.png Graphic file (type png)
+<use img/compañias.png>
+Package pdftex.def Info: img/compañias.png  used on input line 250.
+(pdftex.def)             Requested size: 227.62413pt x 142.26761pt.
+<img/herramientas.png, id=41, 246.9225pt x 127.97812pt>
+File: img/herramientas.png Graphic file (type png)
+<use img/herramientas.png>
+Package pdftex.def Info: img/herramientas.png  used on input line 256.
+(pdftex.def)             Requested size: 284.54263pt x 142.27219pt.
+ [6 <./img/comparativa2.png> <./img/compañias.png> <./img/herramientas.png>]
+Overfull \hbox (425.46835pt too wide) in paragraph at lines 306--307
 []\OT1/cmr/m/n/12 https://stackshare.io/stackups/aws-codepipeline-vs-azure-devo
 ps#: :text=AWS$ $%20CodePipeline$ $%20belongs$ $%20to$ $%20$ $%22Continuous,Wor
 kflow$ $%20Modeling 
  []
 
 
-Overfull \hbox (27.0142pt too wide) in paragraph at lines 218--219
+Overfull \hbox (27.0142pt too wide) in paragraph at lines 310--311
 []\OT1/cmr/m/n/12 https://www.trustradius.com/compare-products/aws-codepipeline
 -vs-azure-devops 
  []
 
 
-Overfull \hbox (18.59346pt too wide) in paragraph at lines 220--221
+Overfull \hbox (18.59346pt too wide) in paragraph at lines 312--313
 []\OT1/cmr/m/n/12 https://www.infoworld.com/article/3271126/what-is-cicd-contin
 uous-integration-
  []
 
-[5] (TrabajoEncargado_3UFinal.aux
+[7] (TrabajoEncargado_3UFinal.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 ) ) 
@@ -480,7 +479,7 @@ Here is how much of TeX's memory you used:
  20676 multiletter control sequences out of 15000+200000
  543892 words of font info for 60 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,5n,66p,732b,430s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 60i,5n,66p,732b,439s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\VICTOR PIERO\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
 600\tcrm1200.pk><C:/Users/VICTOR PIERO/AppData/Local/Programs/MiKTeX/fonts/type
 1/public/amsfonts/cm/cmbx12.pfb><C:/Users/VICTOR PIERO/AppData/Local/Programs/M
@@ -489,11 +488,12 @@ a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/VI
 CTOR PIERO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.p
 fb><C:/Users/VICTOR PIERO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
 onts/cm/cmr17.pfb><C:/Users/VICTOR PIERO/AppData/Local/Programs/MiKTeX/fonts/ty
-pe1/public/amsfonts/cm/cmti10.pfb><C:/Users/VICTOR PIERO/AppData/Local/Programs
-/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on TrabajoEncargado_3UFinal.pdf (7 pages, 397766 bytes).
+pe1/public/amsfonts/cm/cmsy10.pfb><C:/Users/VICTOR PIERO/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/VICTOR PIERO/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on TrabajoEncargado_3UFinal.pdf (9 pages, 408834 bytes).
 PDF statistics:
- 72 PDF objects out of 1000 (max. 8388607)
+ 82 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
